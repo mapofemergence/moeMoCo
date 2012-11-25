@@ -1,4 +1,4 @@
-openDolly
+moeMoCo
 ==============
 
 Research and development of a series of sketches and libraries,
